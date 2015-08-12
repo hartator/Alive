@@ -23,6 +23,8 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 gem 'react-rails', '~> 1.0', github: 'reactjs/react-rails'
 
+gem 'watir-webdriver'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
