@@ -45,6 +45,14 @@ class Pulse
     {url: "http://jeuxfun.free.fr/combat.htm", check: "Little Fighter 2 v.1.9"},
     {url: "http://jeuxfun.free.fr/fantome.html", check: "garde cette section par nostalgie"},
     {url: "http://jeuxfun.free.fr/menu.html", check: "Liste des Jeux"},
+    {url: "http://www.onlyfreegames.net/page.html", check: "All the Games on this site are totally free"},
+    {url: "http://www.onlyfreegames.net/combat.htm", check: "Little Fighter 2 v.1.9"},
+    {url: "http://www.onlyfreegames.net/linux.htm", check: "Ping Pong game in 3d OpenGl"},
+    {url: "http://www.onlyfreegames.net/menu.html", check: "List of the Games"},
+    {url: "http://juegosgratis.free.fr/page.html", check: "Todos los juegos son gratis y son completos."},
+    {url: "http://juegosgratis.free.fr/combat.htm", check: "Little Fighter 2 es un juego de combate"},
+    {url: "http://juegosgratis.free.fr/linux.htm", check: "Juego Que Se Divierte a dos"},
+    {url: "http://juegosgratis.free.fr/menu.html", check: "Lista de Juegos"},
   ]
 
   def self.pulsate
