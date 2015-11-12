@@ -53,6 +53,10 @@ class Pulse
     {url: "http://juegosgratis.free.fr/combat.htm", check: "Little Fighter 2 es un juego de combate"},
     {url: "http://juegosgratis.free.fr/linux.htm", check: "Juego Que Se Divierte a dos"},
     {url: "http://juegosgratis.free.fr/menu.html", check: "Lista de Juegos"},
+    {url: "http://www.fight.free.fr", check: "Dans cette partie, des jeux de combat et même un utilitaire pour créer des jeux de combat sont en téléchargement libre."},
+    {url: "http://www.fight.free.fr/note1.htm", check: "Vous incarnez un gladiateur à la vue troisiéme personne."},
+    {url: "http://www.fight.free.fr/03.htm", check: "Coup de pied dans les jembe : A"},
+    {url: "http://www.fight.free.fr/tel9.htm", check: "Lemming Ball Z est un jeu de combat mettant en scéne les personages de Dragon Ball Z."},
   ]
 
   def self.pulsate
