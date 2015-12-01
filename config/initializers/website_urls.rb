@@ -31,7 +31,7 @@ WEBSITE_URLS = [
   {url: "http://www.amourinet.com/Rachel-et-Eva", check: "Cendrillon et le Prince charmant"},
   {url: "http://www.amourinet.com/mois-05-2015/1", check: "Migwel et Djesika"},
   {url: "http://www.spreadster.com/", check: "Mass Video Distribution"},
-  {url: "http://medianest.com/#", check: "Upload your videos to multiple sites"},
+  {url: "http://medianest.com/?", check: "Upload your videos to multiple sites"},
   {url: "http://medianest.com/pricing.html", check: "30-day money back guarantee"},
   {url: "http://medianest.com/contact.html", check: "2060 Broadway Street"},
   {url: "http://app.medianest.com/users/sign_up", check: "Set up your new account"},
