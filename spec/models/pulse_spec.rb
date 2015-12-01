@@ -12,7 +12,7 @@ WEBSITE_URLS.each do |website|
       visit website[:url]
       expect(page.status_code).to be(200)
       expect(page.body.size).to be > 250
-      expect(page).to have_content website[:check]
+      expect(page).to have_content /#{website[:check]}/i
     end
 
   end
