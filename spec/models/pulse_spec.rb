@@ -8,7 +8,7 @@ WEBSITE_URLS.each do |website|
       Capybara.current_driver = :poltergeist
       if ENV['TRAVIS']
         Capybara.register_driver :poltergeist do |app|
-          Capybara::Poltergeist::Driver.new(app, {js_errors: false, phantomjs_logger: false, logger: false})
+          Capybara::Poltergeist::Driver.new(app, {js_errors: false, phantomjs_logger: nil, logger: nil})
         end
       end
     end
