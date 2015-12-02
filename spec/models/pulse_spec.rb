@@ -2,6 +2,7 @@ require "rails_helper"
 
 module PoltergeistLogger
   def self.puts(*)
+    return nil
   end
 end
 
