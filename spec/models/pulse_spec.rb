@@ -1,6 +1,6 @@
 require "rails_helper"
 
-module PoltergeistLogger
+module NilPoltergeistLogger
   def self.puts(*)
     return nil
   end
@@ -14,7 +14,7 @@ WEBSITE_URLS.each do |website|
       Capybara.current_driver = :poltergeist
       if ENV['TRAVIS']
         Capybara.register_driver :poltergeist do |app|
-          Capybara::Poltergeist::Driver.new(app, {js_errors: false, phantomjs_logger: PoltergeistLogger, logger: PoltergeistLogger})
+          Capybara::Poltergeist::Driver.new(app, {js_errors: false})
         end
       end
     end
