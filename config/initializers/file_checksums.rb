@@ -1,0 +1,17 @@
+FILE_CHECKSUMS = [
+  {url: "http://www.funlabo.com/g/simulation-football.swf", sha256: "376b73bf585c390f3a5704291e52f98d8201f44216dfb1e50b4b2b5bbf624b2c"},
+  {url: "http://www.funlabo.com/g/habilite-moto.swf", sha256: "ef5ddda43255cb350b542c6f687eb1b93705f0f322c6d4eebfabca6b1d1a52c3"},
+  {url: "http://www.funlabo.com/g/jeu-de-billard.swf", sha256: "4e85aea4d69ec686f22991b741c88b7a6c1aa1108ea67a8d70087d3e71a7cfd3"},
+  {url: "http://www.funlabo.com/g/billard-3d.dir", sha256: "a35d1055e5f6a37b61fe8ecc071a624f2dac6500c887812b56896f7e96d6dd3c"},
+  {url: "http://www.funlabo.com/g/jeu-d-avion-en-3d.unity3d", sha256: "965e3f706b4e43b58101c1864c4fa9cff451bb43f998e999a472824e09e04505"},
+  {url: "http://www.funlabo.com/m/img/logo2.gif", sha256: "2f0e7d459537dd1e5db2eda96de18c8c8c4e544f08a3ba57d9f033a7f1a5365b"},
+  {url: "http://www.funlabo.com/c/voiture.jpg", sha256: "d135c37e06e04c93a04cc40bb19515deb83ab89559258faa50146fd7afe91ff1"},
+  {url: "http://www.funlabo.com/s/bowling-chats.jpg", sha256: "a9828b9c9d8047e765065b67605d48b8f46781c3daba77650ad68e6eb6683b95"},
+  {url: "http://www.funlabo.com/s/boxe-arcade.jpg", sha256: "afe78a90f038fa27d1e1f304a26a51a89637f9299b3d1c4fce69034cd42c9374"},
+  {url: "http://www.stratozor.com/c/conquete.gif", sha256: "51fc885cc2fcda923cf7c860e4c92923ab6b1c9cbd7347e24a257f18ffb1d746"},
+  {url: "http://www.stratozor.com/g/jeu-conquete.swf", sha256: "494d92f4dd33b9168c73307adcfcbffb05addc7fe2ef39cdada11b2b5963b927"},
+  {url: "http://www.stratozor.com/g/jeu-de-conquete-fourmis-vs-abeilles.swf", sha256: "ac6657417a5bcba1479530ace40fcfcbd77a7970c77c2c89670ba559e2296895"},
+  {url: "http://www.stratozor.com/g/echecs-en-3d.dcr", sha256: "b8c1ecfe8a19dcb5cf78d61051be2621c9259d8bbd64632a992328e3ede25734"},
+  {url: "http://www.stratozor.com/s/146x114/jeu-prehistorique.jpg", sha256: "7d03e0587ecb5320dd6446741aab1095c924a533623b4fce7bcd13ac98f0fcb3"},
+  {url: "http://www.stratozor.com/m/images/stratozor.png", sha256: "e59a008829c45178159832c3bc14d66f0d609b03b26ecb1253c2391c20258a38"},
+]
