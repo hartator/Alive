@@ -1,3 +1,5 @@
 == README
 
 Continuous Integration Results: https://travis-ci.org/hartator/Alive/
+
+- Run tests on 2015-12-9
