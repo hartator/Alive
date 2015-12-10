@@ -26,6 +26,13 @@ WEBSITE_URLS.each do |website|
       expect(page).to have_content /#{website[:check]}/i
     end
 
+    # Open-uri Based Scrapper
+    # page = open website[:url]
+    # body = page.read
+    # expect(page.status[0].to_i).to be == 200
+    # expect(body.size).to be > 250
+    # expect(body.downcase).to include website[:check].downcase
+
   end
 
 end
