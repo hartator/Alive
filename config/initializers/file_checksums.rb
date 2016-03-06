@@ -12,6 +12,6 @@ FILE_CHECKSUMS = [
   {url: "http://www.stratozor.com/g/jeu-conquete.swf", sha256: "494d92f4dd33b9168c73307adcfcbffb05addc7fe2ef39cdada11b2b5963b927"},
   {url: "http://www.stratozor.com/g/jeu-de-conquete-fourmis-vs-abeilles.swf", sha256: "ac6657417a5bcba1479530ace40fcfcbd77a7970c77c2c89670ba559e2296895"},
   {url: "http://www.stratozor.com/g/echecs-en-3d.dcr", sha256: "b8c1ecfe8a19dcb5cf78d61051be2621c9259d8bbd64632a992328e3ede25734"},
-  {url: "http://www.stratozor.com/s/146x114/jeu-prehistorique.jpg", sha256: "7d03e0587ecb5320dd6446741aab1095c924a533623b4fce7bcd13ac98f0fcb3"},
+  {url: "http://www.stratozor.com/s/146x114/jeu-prehistorique.jpg", sha256: "ab5a7d43d4d16ab4702863c6aa4903c22c356cc40e524b1834f173aba6c54b9d"},
   {url: "http://www.stratozor.com/m/images/stratozor.png", sha256: "e59a008829c45178159832c3bc14d66f0d609b03b26ecb1253c2391c20258a38"},
 ]
