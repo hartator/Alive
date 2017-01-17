@@ -23,7 +23,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 gem 'watir-webdriver'
 
-gem 'nokogiri', '~> 1.6'
+gem 'nokogiri', '1.6.7.2'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
