@@ -1,5 +1,5 @@
 WEBSITE_URLS = [
-  {url: "https://www.google.com/intl/en/about/", check: "world’s information"},
+  {url: "http://spec.microcrea.com", check: "Traceroute"},
   {url: "http://www.funlabo.com", check: "Jeux de Sport"},
   {url: "http://www.funlabo.com/billard/", check: "sélection de jeux de Billard"},
   {url: "http://www.funlabo.com/billard/jeu-de-billard.htm", check: "ensuite dirigez la queue avec la souris"},
@@ -9,7 +9,7 @@ WEBSITE_URLS = [
   {url: "http://www.funlabo.com/de/golf/minigolf-spiel.htm", check: "an einem Teil der Minigolf"},
   {url: "http://www.funlabo.com/es/", check: "juegos deportivos"},
   {url: "http://www.funlabo.com/es/beisbol/", check: "selección de juegos de Béisbol"},
-  {url: "http://www.funlabp.com/es/juegos-de-motos/motocicleta-en-el-bosque.htm", check: "Motocicleta en el Bosque"},
+  {url: "http://www.funlabo.com/es/juegos-de-motos/motocicleta-en-el-bosque.htm", check: "Motocicleta en el Bosque"},
   {url: "http://www.forumcrea.com", check: "Création de Forum"},
   {url: "http://www.forumcrea.com/creez-forum.php", check: "Pseudo de l'administrateur"},
   {url: "http://forum.forumcrea.com/", check: "Demandez ou Offez de l'aide"},
