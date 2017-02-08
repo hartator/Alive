@@ -119,4 +119,5 @@ WEBSITE_URLS = [
   {url: "http://www.heroescity.net", check: "Jeux de Super Héros"},
   {url: "http://www.defouland.com", check: "Jeux d'Action - Defouland.com"},
   {url: "http://www.avantavia.com", check: "Jeux d'Aventure - Avantavia.com"},
+  {url: "http://ugs.microcrea.com/admin/users/sign_in", check: "Remeber me"},
 ]
